@@ -52,7 +52,7 @@ import org.terasology.registry.CoreRegistry;
 import org.terasology.registry.In;
 import org.terasology.rendering.nui.NUIManager;
 import org.terasology.rendering.nui.layers.ingame.inventory.GetItemTooltip;
-import org.terasology.rendering.nui.widgets.TooltipLine;
+import org.terasology.nui.widgets.TooltipLine;
 import org.terasology.utilities.Assets;
 
 /**

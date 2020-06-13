@@ -30,11 +30,11 @@ import org.terasology.physicalstats.component.PhysicalStatsModifiersListComponen
 import org.terasology.registry.CoreRegistry;
 import org.terasology.registry.In;
 import org.terasology.rendering.nui.BaseInteractionScreen;
-import org.terasology.rendering.nui.UIWidget;
-import org.terasology.rendering.nui.databinding.DefaultBinding;
+import org.terasology.nui.UIWidget;
+import org.terasology.nui.databinding.DefaultBinding;
 import org.terasology.rendering.nui.layers.ingame.inventory.InventoryGrid;
-import org.terasology.rendering.nui.layouts.ColumnLayout;
-import org.terasology.rendering.nui.widgets.UILabel;
+import org.terasology.nui.layouts.ColumnLayout;
+import org.terasology.nui.widgets.UILabel;
 
 import java.util.ArrayList;
 import java.util.Iterator;
